@@ -4,17 +4,19 @@ An Ecommerce app that allows users to buy/sell used and New Products
 
 ## Demo
 
-
+## SignUp
 ![Techbarter App SignUp Demo](./assets/SignUp-demo.gif)
 
 
-
+## SignIn
 ![Techbarter App SignUp Demo](./assets/SignIn-demo.gif)
 
 
+## Product upload + CRUD Demo
 
 ![Product upload + CRUD Demo](./assets/Product-CRUD-demo.gif)
 
+## New + Used Products
 
 ![New  + Used products Demo](./assets/New-Used-demo.gif)
 
