@@ -34,25 +34,31 @@ An Ecommerce app that allows users to buy/sell used and New Products
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HardikKumariscoding/COMP-3123/tree/master/101410993_comp3123_labtest2
+   git clone https://github.com/HardikKumariscoding/COMP3074-Assignment-2
 
 2.   Install dependencies:
 
-        cd weather-app
+        
         npm install
 
 3. Run the app locally:        
 
-        npm start
+        open Android Studio
+        Go to Device Manager
+        start device
+
+        open project in VS code
+
+        npm install
+
+        npm run android
 
 
-4. Open the app in your browser:
-
-    Visit http://localhost:3000 to see the weather app in action. 
 
 
 Technologies Used
 
-    React
-    OpenWeather API
-    CSS/HTML
+    React-native
+    
+    
+    
